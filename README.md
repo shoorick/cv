@@ -3,11 +3,11 @@
 ## Objective
 
 An advanced developer position with challenging responsibilities, exposure to Web
-technologies, as well as Perl and PHP programming.
+technologies, as well as Perl, Python and PHP programming.
 
 ## Summary
 
-Over 15 years of extensive programming experience, developing Web applications with
+20+ years of extensive programming experience, developing Web applications with
 hands-on skills in software integration under Unix, Linux and Windows operating
 systems.
 
