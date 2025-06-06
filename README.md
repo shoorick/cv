@@ -15,9 +15,9 @@ See full CV at http://shoorick.ru/cv
 
 ## Repository contents
 
-- Makefile
-- sparse.md — CV in Markdown format
-- style.css — stylesheet for CV
+- [Makefile](Makefile) to build PDF from Markdown
+- [cv.md](cv.md) — CV in Markdown format
+- [style.css](style.css) — stylesheet for CV
 
 ## How to get PDF
 
