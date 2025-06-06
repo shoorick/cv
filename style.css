@@ -1,0 +1,78 @@
+body {
+    font-family: "PT Sans", sans-serif;
+}
+
+h1 {
+    font-family: "PT Sans Caption", sans-serif;
+    font-weight: normal;
+}
+
+a {
+    color: #009;
+}
+
+a:visited {
+    color: #306;
+}
+
+@media print {
+    body {
+        padding: 0 34% 0 0;
+        font-size: 16pt;
+    }
+
+    h1 {
+        margin: 0 0 .5em;
+        font-size: 2em;
+    }
+
+    h2 {
+        margin: .5em 0 .25em;
+        font-size: 1.5em;
+    }
+
+    h2#contact {
+        visibility: hidden;
+        margin-top: 2.25em;
+    }
+
+    h2#contact+p,
+    h2#contact+p+p {
+        text-align: right;
+    }
+
+    h3 {
+        margin: .5em 0 .25em;
+        font-size: 1em;
+    }
+
+    /* Date range */
+    h3+p {
+        font-family: "PT Sans Caption", sans-serif;
+        font-size: 0.75em;
+    }
+
+    /* Position */
+    h3+p em {
+        font-family: "PT Sans", sans-serif; /* PT Sans Caption doesn’t have italic */
+    }
+
+    p,
+    li {
+        margin: 0 0 .5em;
+        line-height: 1.25;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    aside {
+        position: absolute;
+        width: 34%;
+        top: 0;
+        right: 0%;
+    }
+}
