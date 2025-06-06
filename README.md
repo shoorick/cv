@@ -21,11 +21,12 @@ See full CV at http://shoorick.ru/cv
 
 ## How to get PDF
 
-CV is convertible to PDF with **Pandoc** universal document converter:
+CV is convertible to printable PDF file with
+[Pandoc](https://pandoc.org/) universal document converter:
 
 1. Install `make` and `pandoc` if necessary
 2. Run `make`
 
 PDF will be created in the current directory,
 filename contains current date and branch name.
-
+The document fits one A4 sheet.
