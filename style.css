@@ -47,7 +47,8 @@ a:visited {
     }
 
     /* Date range */
-    h3+p {
+    h3+p,
+    #education+p+p+p {
         font-family: "PT Sans Caption", sans-serif;
         font-size: 0.75em;
     }
