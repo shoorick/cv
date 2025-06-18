@@ -8,7 +8,7 @@ Seeking projects that will leverage my technical skills and background in both 
 
 ## Experience
 
-### SecuriTeam Software ([ironsphere.co.il](https://ironsphere.co.il/)) — _web developer_
+### SecuriTeam Software ([ironsphere.co.il](https://ironsphere.co.il/)) — _developer_
 
 March 2024 — present, _Caesaria, Israel_
 
@@ -16,7 +16,7 @@ Enhanced and maintained website functionality,
 upgraded and refactored legacy codebase to be compatible with PHP 8,
 conducted comprehensive testing and created technical documentation.
 
-### Logo Studio ([logostudio.site](https://www.logostudio.site/)) — _web developer_
+### Logo Studio ([logostudio.site](https://www.logostudio.site/)) — _developer_
 
 July 2023 — November 2024, _Bat Yam, Israel_
 
@@ -26,7 +26,7 @@ refactored legacy codebase,
 implemented web scraping and text processing solutions,
 prepared documentation and managed projects.
 
-### AI video surveillance startup — _web developer_
+### AI video surveillance startup — _developer_
 
 April 2023 — August 2023, _Batumi, Georgia_
 
