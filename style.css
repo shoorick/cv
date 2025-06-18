@@ -18,7 +18,7 @@ a:visited {
 @media print {
     body {
         padding: 0 34% 0 0;
-        font-size: 16pt;
+        font-size: 14pt;
     }
 
     h1 {
@@ -71,7 +71,7 @@ a:visited {
 
     aside {
         position: absolute;
-        width: 34%;
+        width: 33%;
         top: 0;
         right: 0%;
     }

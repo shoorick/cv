@@ -12,46 +12,62 @@ Seeking projects that will leverage my technical skills and background in both 
 
 March 2024 — present, _Caesaria, Israel_
 
-Website enhancement and maintenance, testing, legacy code review and technical documentation.
+Enhanced and maintained website functionality,
+upgraded and refactored legacy codebase to be compatible with PHP 8,
+conducted comprehensive testing and created technical documentation.
 
 ### Logo Studio ([logostudio.site](https://www.logostudio.site/)) — _web developer_
 
 July 2023 — November 2024, _Bat Yam, Israel_
 
-Web sites development and support, site scraping, text processing and
-legacy reviewing with PHP, Python, Perl, JavaScript. Project management,
-technical writing.
+Developed and maintained multilingual bidirectional (RTL/LTR) websites
+using PHP, Python, Perl and JavaScript,
+refactored legacy codebase,
+implemented web scraping and text processing solutions,
+prepared documentation and managed projects.
 
-Developed and maintained websites, implemented web scraping and text processing solutions,
-and managed projects using PHP, Python, Perl and JavaScript.
+### AI video surveillance startup — _web developer_
+
+April 2023 — August 2023, _Batumi, Georgia_
+
+Developed and maintained multilingual websites using WordPress and Jekyll,
+implemented SEO and CI/CD pipelines,
+significantly improved performance and accessibility of the websites,
+prepared documentation, and managed projects.
 
 ### Turing Technology Associates, Inc. ([turingta.com](https://turingta.com/)) — _consultant_
 
 December 2021 — February 2022, February 2023 — February 2024, _Wilmington, DE, USA_
 
-Automated routine tasks, processed complex spreadsheets with Python,
+Automated routine tasks, processed complex spreadsheets with Python,
 modernized and ported legacy Perl codebase.
 
 ### Moscow Clinical Scientific Center ([mknc.ru](https://mknc.ru/)) — _system administrator_
 
 February 2021 — August 2021, _Moscow, Russia_
 
-Managed website development and technical support for healthcare institution.
+Led frontend development and successfully migrated the healthcare institution's website to a new CMS version. Provided ongoing technical support and maintenance.
 
 ### Web-Masterskaya design studio ([w-m.ru](http://w-m.ru/)) — _programmer_
 
 November 2018 — April 2019, _Moscow, Russia_
 
-Web sites development and support.
+Maintained and enhanced high-load websites with complex architecture,
+extended functionality using both modern frameworks and proprietary legacy code.
+Developed solutions in Perl and JavaScript, implemented complex stored procedures
+in PostgreSQL database.
 
-### South Ural State University ([susu.ru](https://www.susu.ru/)) — <br>
-_head of web projects sector_
+### South Ural State University ([susu.ru](https://www.susu.ru/)) — _head of web projects sector_
 
 April 2017 — September 2021, _Chelyabinsk, Russia_
 
-Applications and web sites development, design, and integration. System
-administration, site reliability engineering. Team leading, project
-management.
+Developed and integrated web applications and sites, designed user interfaces
+and experiences. Administered systems, ensured site reliability,
+led development teams and collaborated within large cross-departmental teams,
+managed multiple projects simultaneously.
+Conducted training seminars and professional development courses,
+onboarded and mentored junior colleagues,
+taught international students.
 
 <aside>
 
@@ -74,11 +90,11 @@ shoorick77
 - English: upper-intermediate B2
 - Russian: native
 - German: intermediate
-- Hebrew, Lithuanian, Spanish: entry level
+- Hebrew, Lithuanian, Spanish: entry level
 
 ## Education
 
-**South Ural State University, Economy and Management faculty**
+**South Ural State University,<br>Economy and Management faculty**
 
 Information systems in economy
 
