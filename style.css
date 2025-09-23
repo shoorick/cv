@@ -2,6 +2,10 @@ body {
     font-family: "PT Sans", sans-serif;
 }
 
+body, h1, h2, h3, p, li {
+    line-height: 1.25;
+}
+
 h1 {
     font-family: "PT Sans Caption", sans-serif;
     font-weight: normal;
@@ -15,9 +19,20 @@ a:visited {
     color: #306;
 }
 
+.narrow {
+    width: 66%;
+}
+
+aside {
+    --offset: 70em;
+    float: right;
+    width: 33%;
+    height: var(--offset);
+    margin-top: calc(-1 * var(--offset));
+}
+
 @media print {
     body {
-        padding: 0 34% 0 0;
         font-size: 14pt;
     }
 
@@ -33,7 +48,7 @@ a:visited {
 
     h2#contact {
         visibility: hidden;
-        margin-top: 2.25em;
+        margin: 0 0 0.9em;
     }
 
     h2#contact+p,
@@ -61,19 +76,11 @@ a:visited {
     p,
     li {
         margin: 0 0 .5em;
-        line-height: 1.25;
     }
 
     ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
-    }
-
-    aside {
-        position: absolute;
-        width: 33%;
-        top: 0;
-        right: 0%;
     }
 }

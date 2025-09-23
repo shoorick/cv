@@ -1,10 +1,19 @@
 # Alexander Sapozhnikov
 
+<div class="narrow">
+
 **Full stack developer**
 
 Experienced web developer with 20+ years of expertise in Perl, PHP, Python, Ruby and JavaScript. 
 
 Seeking projects that will leverage my technical skills and background in both development and team leadership.
+
+## Skills
+
+- Perl, PHP, Python, Ruby, JavaScript, HTML, CSS.
+- Web and CLI applications, scraping, automation, text processing.
+- MySQL, PostgreSQL, noSQL.
+- Linux, git.
 
 ## Experience
 
@@ -26,6 +35,8 @@ refactored legacy codebase,
 implemented web scraping and text processing solutions,
 prepared documentation and managed projects.
 
+</div>
+
 ### AI video surveillance startup — _developer_
 
 April 2023 — August 2023, _Batumi, Georgia_
@@ -33,7 +44,7 @@ April 2023 — August 2023, _Batumi, Georgia_
 Developed and maintained multilingual websites using WordPress and Jekyll,
 implemented SEO and CI/CD pipelines,
 significantly improved performance and accessibility of the websites,
-prepared documentation, and managed projects.
+prepared documentation and managed projects.
 
 ### Turing Technology Associates, Inc. ([turingta.com](https://turingta.com/)) — _consultant_
 
@@ -75,22 +86,16 @@ taught international students.
 
 <shoorick77@gmail.com>
 
-Messengers (FB, Skype, Telegram, Twitter, Viber, VK, WhatsApp):
-shoorick77
-
-## Skills
-
-- Perl, PHP, Python, Ruby, JavaScript, HTML, CSS
-- Web and CLI applications, scraping, automation, text processing
-- MySQL, PostgreSQL, noSQL
-- Linux, git
+Messengers and social networks
+(FB, Skype, Telegram, Twitter, Viber, VK, WhatsApp):
+**shoorick77**
 
 ## Languages
 
 - English: upper-intermediate B2
 - Russian: native
 - German: intermediate
-- Hebrew, Lithuanian, Spanish: entry level
+- Hebrew, Lithuanian, Serbian, Spanish: entry level
 
 ## Education
 
@@ -98,7 +103,7 @@ shoorick77
 
 Information systems in economy
 
-September 1994 — June 1999
+September 1994 — June 1999, _Chelyabinsk, Russia_
 
 ## Links
 
