@@ -7,4 +7,5 @@ $(DST): $(SRC) $(CSS)
 	pandoc $(SRC) -t html --css $(CSS) $(MARGINS) -o $@
 
 cv.html: $(SRC)
-	pandoc $(SRC) -o $@
+	echo '<link rel="stylesheet" href="style.css">' > $@
+	pandoc $(SRC) -o - >> $@
