@@ -12,8 +12,9 @@ Seeking projects that will leverage my technical skills and background in both 
 
 - Perl, PHP, Python, Ruby, JavaScript, HTML, CSS.
 - Web and CLI applications, scraping, automation, text processing.
-- MySQL, PostgreSQL, noSQL.
+- MySQL, PostgreSQL, noSQL, ORM.
 - Linux, git.
+- Project management, team leadership.
 
 ## Experience
 

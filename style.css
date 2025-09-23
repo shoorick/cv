@@ -24,7 +24,7 @@ a:visited {
 }
 
 aside {
-    --offset: 70em;
+    --offset: 79.9rem;
     float: right;
     width: 33%;
     height: var(--offset);
@@ -48,7 +48,8 @@ aside {
 
     h2#contact {
         visibility: hidden;
-        margin: 0 0 0.9em;
+        margin: 0;
+        line-height: 0;
     }
 
     h2#contact+p,
