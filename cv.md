@@ -104,7 +104,7 @@ Messengers and social networks
 
 Information systems in economy
 
-September 1994 — June 1999, _Chelyabinsk, Russia_
+September 1994 — June 1999, _Chelyabinsk, Russia_
 
 ## Links
 

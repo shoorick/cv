@@ -70,7 +70,8 @@ aside {
     }
 
     /* Position */
-    h3+p em {
+    h3+p em,
+    #education+p+p+p em {
         font-family: "PT Sans", sans-serif; /* PT Sans Caption doesn’t have italic */
     }
 
