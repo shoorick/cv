@@ -74,7 +74,7 @@ in PostgreSQL database.
 April 2017 — September 2021, _Chelyabinsk, Russia_
 
 Developed and integrated web applications and sites, designed user interfaces
-and experiences. Administered systems, ensured site reliability,
+and experiences. Administered systems, ensured sites reliability,
 led development teams and collaborated within large cross-departmental teams,
 managed multiple projects simultaneously.
 Conducted training seminars and professional development courses,
