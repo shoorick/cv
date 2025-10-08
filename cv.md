@@ -96,7 +96,7 @@ Messengers and social networks
 - English: upper-intermediate B2
 - Russian: native
 - German: intermediate
-- Hebrew, Lithuanian, Serbian, Spanish: entry level
+- Hebrew, Lithuanian, Serbian, Spanish, Ukrainian: entry level
 
 ## Education
 
