@@ -10,10 +10,12 @@ Seeking projects that will leverage my technical skills and background in both 
 
 ## Skills
 
-- Perl, PHP, Python, Ruby, JavaScript, HTML, CSS.
-- Web and CLI applications, scraping, automation, text processing.
-- MySQL, PostgreSQL, noSQL, ORM.
-- Linux, git.
+- PHP with CodeIgniter, Slim and Yii frameworks, Symfony components, Drupal, WordPress,
+  <abbr title="Open Journal Systems">OJS</abbr>,
+  and <abbr title="Open Conference Systems">OCS</abbr>, KVS as well as simple scripts.
+- Perl, Python, Ruby, JavaScript, HTML, CSS —
+  web and CLI applications, scraping, automation, text processing.
+- MySQL, PostgreSQL, noSQL, ORM. Linux, git.
 - Project management, team leadership.
 
 ## Experience
@@ -51,7 +53,7 @@ prepared documentation and managed projects.
 
 December 2021 — February 2022, February 2023 — February 2024, _Wilmington, DE, USA_
 
-Automated routine tasks, processed complex spreadsheets with Python,
+Automated routine tasks, processed complex data with Python,
 modernized and ported legacy Perl codebase.
 
 ### Moscow Clinical Scientific Center ([mknc.ru](https://mknc.ru/)) — _system administrator_
