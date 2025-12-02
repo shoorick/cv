@@ -4,7 +4,7 @@
 
 **Full stack developer**
 
-Experienced web developer skilled in Perl, PHP, Python, Ruby and JavaScript.
+Experienced web developer skilled in PHP, Perl, Python, Ruby and JavaScript.
 
 Seeking projects that will leverage my technical skills and background in both development and team leadership.
 
