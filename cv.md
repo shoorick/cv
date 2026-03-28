@@ -20,7 +20,7 @@ Seeking projects that will leverage my technical skills and background in both 
 
 ### SecuriTeam Software ([ironsphere.co.il](https://ironsphere.co.il/)) — _developer_
 
-March 2024 — present, _Caesaria, Israel_
+February 2024 — present, _Caesaria, Israel_
 
 Enhanced and maintained functionality of company’s products,
 upgraded and refactored legacy codebase to be compatible with PHP 8,
