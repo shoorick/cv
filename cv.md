@@ -23,6 +23,7 @@ Seeking projects that will leverage my technical skills and background in both 
 February 2024 — present, _Caesaria, Israel_
 
 Enhanced and maintained functionality of company’s products,
+improved its performance,
 upgraded and refactored legacy codebase to be compatible with PHP 8,
 conducted comprehensive testing and created technical documentation.
 
